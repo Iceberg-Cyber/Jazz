@@ -10,7 +10,7 @@ from email.mime.text import MIMEText
 import smtplib
 
 def send_mail(to, filename):
-    email_address = "topsis.mayank@gmail.com"
+    email_address = "topsis.aaryan@gmail.com"
     email_password = "ifvbzrgdfqqcavaq"
 
     # create email
